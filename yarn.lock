@@ -857,7 +857,7 @@ upath@^2.0.1:
   resolved "https://registry.npmmirror.com/upath/-/upath-2.0.1.tgz#50c73dea68d6f6b990f51d279ce6081665d61a8b"
   integrity sha512-1uEe95xksV1O0CYKXo8vQvN1JEbtJp7lb7C5U9HMsIp6IVwntkH/oNUzyVNQSd4S1sYk2FpSSW44FqMc8qee5w==
 
-vite@^2.9.2:
+vite@^2.8.0:
   version "2.9.5"
   resolved "https://registry.npmmirror.com/vite/-/vite-2.9.5.tgz#08ef37ac7a6d879c96f328b791732c9a00ea25ea"
   integrity sha512-dvMN64X2YEQgSXF1lYabKXw3BbN6e+BL67+P3Vy4MacnY+UzT1AfkHiioFSi9+uiDUiaDy7Ax/LQqivk6orilg==
@@ -1008,10 +1008,10 @@ vue-demi@*:
   resolved "https://registry.npmmirror.com/vue-demi/-/vue-demi-0.12.5.tgz#8eeed566a7d86eb090209a11723f887d28aeb2d1"
   integrity sha512-BREuTgTYlUr0zw0EZn3hnhC3I6gPWv+Kwh4MCih6QcAeaTlaIX0DwOVN0wHej7hSvDPecz4jygy/idsgKfW58Q==
 
-vue-devui@^1.0.0-rc.5:
-  version "1.0.0-rc.5"
-  resolved "https://registry.npmmirror.com/vue-devui/-/vue-devui-1.0.0-rc.5.tgz#67dd6cc35cfcfc45faada177632618d2bc7b9ac9"
-  integrity sha512-cLWfsoKw6axcW/q4NQPMy4f3R0TerSYhmeLOJajs4vqjdYMi1zaYyq/IiyiXxSTrvMhzLraL+ihrN6rVT8DZzg==
+vue-devui@^1.0.0-rc.6:
+  version "1.0.0-rc.6"
+  resolved "https://registry.npmmirror.com/vue-devui/-/vue-devui-1.0.0-rc.6.tgz#73b05d999ad530605bb0cda607d09efc0ebb4d60"
+  integrity sha512-pGSlnbllFNkG2QzlpxvS/U6X5aOehr3rUfKLEg6w0tCdoCqBJsRhkNd88mpc08EEqKeAxhOCQLFsCuLtgYADsg==
   dependencies:
     "@devui-design/icons" "^1.3.0"
     "@floating-ui/dom" "^0.4.4"

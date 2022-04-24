@@ -1,7 +1,8 @@
 <template>
   <img alt="Vue logo" src="../assets/logo.png" />
-  <h1>以下是协议内容</h1>
-  <d-fullscreen v-model="isOpen" :zIndex="20" mode="immersive"  style="overflow:auto">
+  <h1 style="z-index:99999">以下是协议内容</h1>
+  <!-- style="overflow:auto" -->
+  <d-fullscreen v-model="isOpen" :z-index="20"   >
     <div class="demo-fullscreen-container">
       <d-button @click="isOpen = !isOpen">{{ btnContent }}</d-button>
       <div id="user-protocol">
